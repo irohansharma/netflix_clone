@@ -48,7 +48,7 @@ class Detailpage extends StatelessWidget {
                                 child: Text(
                                   list.rating,
                                   style: TextStyle(
-                                      fontSize: 16,
+                                      fontSize: 17,
                                       fontFamily: 'MagnumSansBold'),
                                 ))
                           ],
